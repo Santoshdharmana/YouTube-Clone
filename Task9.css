@@ -1,0 +1,61 @@
+*{
+  margin:0px;
+  padding:0px;
+  margin-left: 0px;
+}
+
+/* .container{
+  width: 100%;
+  margin-bottom: 20px;
+  display: inline-block;
+} */
+.color{
+
+ 
+}
+
+.SA{
+  margin-left: 5px;
+  margin-bottom: 8px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.photo{
+ width: 100%;
+}
+.Me{
+  
+  width: 150px;
+}
+/* .profile{
+  width: 300px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 10px;
+} */
+.PP{
+  width: 30px;
+  border-radius: 90%;
+}
+.Friend{
+  display: inline-block;
+  vertical-align: top;
+}
+.Mutual{
+  /* margin-top: 5px; */
+}
+.Add{
+  padding: 10px;
+  border-radius: 5px;
+  border: 5px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+
+
+}

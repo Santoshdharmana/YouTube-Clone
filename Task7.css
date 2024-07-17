@@ -1,0 +1,51 @@
+.P{
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200 , 200);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  
+
+}
+.O{
+  border-width: 1px;
+  border-style:solid;
+  border-color: rgb(200, 200 , 200);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+.J{
+  display: block;
+  width: 420px;
+  padding: 20px;
+  border-radius: 8px;
+  font-size: 16px;
+  border-width: 1px;
+  border-color:rgb(200, 200 , 200);
+  border-style: solid;
+
+}
+button{
+  margin-top: 20px;
+  padding: 15px;
+  width: 460px;
+  
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+button:hover{
+  background-color: rgb(69, 36, 213);
+  cursor: pointer;
+}

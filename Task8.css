@@ -1,0 +1,81 @@
+.container{
+  width: 400px;
+  margin-bottom: 20px;
+
+}
+
+.Photo{
+  vertical-align: middle;
+  width: 100%;
+  border-radius: 50px;
+}
+.profile{
+  display: inline-block;
+  width: 50px;
+ 
+  vertical-align: middle;
+}
+.cutm{
+  display: inline-block;
+  width: 200px;
+  vertical-align: middle;
+
+}
+.S{
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+.A,.N{
+  margin-bottom: 2px;
+  margin-top: 2px;
+  font-size: 15px;
+  color: rgb(96,96,96);
+ 
+}
+.T{
+  padding: 10px;
+  border-radius: 8px;
+  border-style: solid;
+  border: 2px;
+  background-color: rgb(90, 113, 224);
+  color: white;
+  font-weight: bold;
+  
+}
+.anna{
+  display: inline-block;
+}
+
+
+
+
+.Apple{
+  width: 130px;
+  display: inline-block;
+  object-fit: fit;
+}
+.Bussiness{
+  display: inline-block;
+  width: 300px;
+  vertical-align: middle;
+}
+.Bat,
+.Cat,
+.Rat{
+  width: 200px;
+  margin-left: 80PX;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.Bat{
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 17px;
+}
+.Cat{
+  margin-top: 30px;
+  margin-bottom: 3px;
+  color:rgb(96,96,96) ;
+}

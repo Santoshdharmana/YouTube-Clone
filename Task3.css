@@ -1,0 +1,35 @@
+  .Santosh{
+    font-family: Arial;
+    font-weight: bold;
+    width: 300px;
+    line-height: 1.5;
+    margin-bottom: 0px;
+  }
+  .App{
+    margin-top: 0px;
+    color: black;
+  }
+  .Bus{
+    margin-bottom: 10px;
+  }
+  .color{
+    margin-top: 20px;
+    width: 300px;
+    font-family: Arial;
+    line-height: 1.2;
+
+  }
+  .D{
+    margin-top: 100px;
+    text-align: center;
+    background-color: red;
+    padding-top: 20px;
+    padding-bottom: 20px;
+     }
+     .style{
+      text-decoration:underline;
+      cursor: pointer;
+}
+     
+     
+

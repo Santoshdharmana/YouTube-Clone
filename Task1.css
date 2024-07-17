@@ -1,0 +1,19 @@
+.click{
+  background-color: orange;
+  margin-right: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: red;
+  font-weight: bold;
+  border-radius: 8px;
+  border-color: blue;
+  cursor: pointer;
+}
+.click:hover{
+  color: white;
+}
+.P{
+  color:green;
+}
